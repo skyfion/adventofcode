@@ -1,0 +1,4 @@
+{:deps
+ {org.clojure/clojure {:mvn/version "1.10.3"}
+  nrepl/nrepl {:mvn/version "0.8.3"}}
+ }
